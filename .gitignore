@@ -1,0 +1,6 @@
+*.pyc
+*.db
+*.*~
+localsettings.py
+.project
+photos
